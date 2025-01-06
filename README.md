@@ -13,7 +13,9 @@ I have learned a lot of things in this project.Firstly, I have learned how to in
 
 2. 📹Reflection of Industry visit (UTM DIGITAL)
 
-Link of the video of Industry visit : https://youtu.be/9Y06GSYly60?feature=shared
+Participating in UTM Digital Talk and Visit events provided valuable insights into the operations of our university's digital center.I gain a lot of knowledge when the talk and know how they do thier job.Interacting with workers during the visit was another highlight. Hearing about their experiences, career paths, and challenges they face provided valuable perspectives and career advice. Their dedication inspired me to further develop my own skills and consider ways to contribute meaningfully to the industry.
+
+3.
 
 
 
