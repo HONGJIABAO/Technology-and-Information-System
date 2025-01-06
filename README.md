@@ -1,4 +1,4 @@
-# Technology-and-Information-System
+# Technology-and-Information-System 🖥️🖥️
 
 This course have benefit me a lot. First and foremost, we have a lot of presentation during classes. When presentation, I have get a lot of confident and this will make me not nervous when present in front of a lot of people.Second, my time- management skills have improved⌛.This is because I will do my assignment frequently and this action is better than do assignment at last minute.Then, I have learned a lot of knowledge about computer skills and data engineering such as what should I master as a data engineer, what should I improved as a student. My communication skills have also improved because a lot of group assignment in this course.This make my communication improved when these project and assignment.💬
 
