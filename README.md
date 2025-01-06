@@ -15,7 +15,11 @@ I have learned a lot of things in this project.Firstly, I have learned how to in
 
 Participating in UTM Digital Talk and Visit events provided valuable insights into the operations of our university's digital center.I gain a lot of knowledge when the talk and know how they do thier job.Interacting with workers during the visit was another highlight. Hearing about their experiences, career paths, and challenges they face provided valuable perspectives and career advice. Their dedication inspired me to further develop my own skills and consider ways to contribute meaningfully to the industry.
 
-3.
+3.PC assemble 🖥️
+
+Learning how to assemble a PC is educational experience for me.I had know the step of how to assemble the dissemble PC hardware such as motherboard, processor, RAM, storage, power supply, and cooling systems.This experience also taught me about teamwork and communication, as I worked with coursemate. I will bring this technical skills in the future as a computer science student.
+
+4.
 
 
 
