@@ -19,7 +19,9 @@ Participating in UTM Digital Talk and Visit events provided valuable insights in
 
 Learning how to assemble a PC is educational experience for me.I had know the step of how to assemble the dissemble PC hardware such as motherboard, processor, RAM, storage, power supply, and cooling systems.This experience also taught me about teamwork and communication, as I worked with coursemate. I will bring this technical skills in the future as a computer science student.
 
-4.
+4. Industry talk (report)
+
+From the talk , the speaker emphasizes getting to know the strength and weakness.Improve communication skills and technical skills such as C++ programming language and learn other programming languages which will be beneficial .Communication skills, especially in English, need to be improved, as this was highlighted as a common mistake in job hunting. Time should be allocated to participate in activities such as talks and speeches, as these provide opportunities to enhance communication skills through interaction.Soft skills will be developed, and programming languages will be further refined. GitHub and LinkedIn will be utilized effectively
 
 
 
