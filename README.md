@@ -5,13 +5,15 @@ This course have benefit me a lot. First and foremost, we have a lot of presenta
 1. Reflection of Design Thinking🌟
 
 
-link of the design thinking video : https://youtu.be/9Y06GSYly60?feature=shared
+link of the design thinking video : https://youtu.be/QpE_PklSU8U?feature=shared
 
 
 I have learned a lot of things in this project.Firstly, I have learned how to interview people and the people who i need interview for one project. Then, my communication skills and probelm-solving skills have improved when the ideate phase and define phase.This is because our group have make a lot of group discussion for the problem that we had found.Then, I know how to do a prototype for a system.Thus,the design thinking assignment immensely enhanced my acumen in critical and creative thinking.The process of empathizing, defining problems, ideating, prototyping, and testing demanded a critical evaluation of each phase, encouraging me to analyze information and delve deeper into issues to solve the problems.In conclusion, working on this project has been an eye-opening experience, allowing me to grow both academically and personally.One of the most valuable lessons I learned was the importance of planning and collaboration🔧
 
 
 2. 📹Reflection of Industry visit (UTM DIGITAL)
+
+link of the Industry visit video : https://youtu.be/9Y06GSYly60?feature=shared
 
 Participating in UTM Digital Talk and Visit events provided valuable insights into the operations of our university's digital center.I gain a lot of knowledge when the talk and know how they do thier job.Interacting with workers during the visit was another highlight. Hearing about their experiences, career paths, and challenges they face provided valuable perspectives and career advice. Their dedication inspired me to further develop my own skills and consider ways to contribute meaningfully to the industry.
 
