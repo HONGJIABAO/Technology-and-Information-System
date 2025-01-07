@@ -17,7 +17,7 @@ report of design thinking : click on the top 👆🏻
 
 2. 📹Reflection of Industry visit (UTM DIGITAL)
 
-link of the Industry visit video : https://youtu.be/9Y06GSYly60?feature=shared
+link of the Industry visit video : [Click here](https://youtu.be/9Y06GSYly60?feature=shared) 👈🏻
 
 photo : ![image](https://github.com/user-attachments/assets/d743755c-1c88-4141-9179-3677051c9bb3)
 
