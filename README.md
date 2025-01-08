@@ -4,7 +4,24 @@ This course has been highly beneficial. First and foremost, numerous presentatio
 
 <hr>
 
-1. Reflection of Design Thinking🌟 (23.12.2024)
+Activities😁
+
+1. PC ASSEMBLE 🖥️ (22.10.2024)
+
+2. 3. Industry Talk by Celcom Digi 🗣️ (12.11.2024)
+
+3. Industry Talk by Run Cloud's CEO 🗣️ (19.11.2024	)
+
+4. Industry Visit to UTM Digital 🚶🏻‍♂️ (10.12.2024)
+
+5. Industry Talk by MS 🗣️ (17.12.2024)
+
+6. Design Thinking 💭 (23.12.2024)
+
+
+<hr>
+
+1. Reflection of Design Thinking🌟 
 
 Photo : ![image](https://github.com/user-attachments/assets/ca57b1d4-3ef0-4d54-8a2c-f73fdbd21d40)
 
@@ -15,7 +32,7 @@ link of the design thinking video : [Click Here](https://youtu.be/QpE_PklSU8U?fe
 report of design thinking : click on the top 👆🏻
 <hr>
 
-2. 📹Reflection of Industry visit (UTM DIGITAL) (10.12.2024)
+2. 📹Reflection of Industry visit (UTM DIGITAL) 
 
 link of the Industry visit video : [Click here](https://youtu.be/9Y06GSYly60?feature=shared) 👈🏻
 
@@ -24,7 +41,7 @@ photo : ![image](https://github.com/user-attachments/assets/d743755c-1c88-4141-9
 Reflection : Participating in UTM Digital Talk and Visit events provided valuable insights into the operations of our university's digital center🖥️.I gain a lot of knowledge when the talk and know how they do thier job.Interacting with workers during the visit was another highlight. Hearing about their experiences, career paths, and challenges they face provided valuable perspectives and career advice. Their dedication inspired me to further develop my own skills and consider ways to contribute meaningfully to the industry🔍.
 <hr>
 
-3.PC assemble 🖥️ (22.10.2024)
+3.PC assemble 🖥️ 
 
 image : ![image](https://github.com/user-attachments/assets/078a83d1-89ce-4c57-aa4e-32891690db62)
 
@@ -32,7 +49,7 @@ image : ![image](https://github.com/user-attachments/assets/078a83d1-89ce-4c57-a
 Reflection : Learning how to assemble a PC is educational experience for me.🖥️I had know the step of how to assemble the dissemble PC hardware such as motherboard, processor, RAM, storage, power supply, and cooling systems.This experience also taught me about teamwork and communication, as I worked with coursemate. I will bring this technical skills in the future as a computer science student.
 <hr>
 
-4. Industry talk (report) (17.12.2024)
+4. Industry talk (report) 
 
 Reflection : From the talk , the speaker emphasizes getting to know the strength and weakness.Improve communication skills and technical skills such as C++ programming language 💻and learn other programming languages which will be beneficial .Communication skills🗣️, especially in English, need to be improved, as this was highlighted as a common mistake in job hunting. Time should be allocated to participate in activities such as talks and speeches, as these provide opportunities to enhance communication skills through interaction.Soft skills will be developed, and programming languages will be further refined. GitHub and LinkedIn will be utilized effectively
 
